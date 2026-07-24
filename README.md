@@ -27,10 +27,8 @@
 # 🎯 Current Goals
 
 - 🤖 Build production-ready AI Agents
-- ☁️ Learn Cloud & DevOps
-- 🌍 Contribute more to Open Source
+- 🌍 Contribute more to meaningfull projects
 - 📡 Deepen my Networking knowledge
-- 🚀 Build impactful products
 
 ---
 
@@ -53,11 +51,11 @@ class Lylia:
 
     def daily_routine(self):
         while True:
-            self.learn()      # 📚
-            self.build()      # 🚀
-            self.debug()      # 🐛
-            self.optimize()   # ⚡
-            self.repeat()     # 🔁
+            self.learn()      
+            self.build()      
+            self.debug()      
+            self.optimize()  
+            self.repeat()     
 
 
 me = Lylia()
@@ -80,7 +78,6 @@ learning = {
     "Networking": [
         "CCNA",
         "Network Automation",
-        "Cloud"
     ],
 
     "Frontend": [
@@ -113,20 +110,19 @@ interests = [
     "Artificial Intelligence",
     "Networking",
     "Frontend",
-    "Open Source",
 ]
 ```
 
 ---
 
-## connect.py 🌍
+## letsCONNECT.py 🌍
 
 ```python
-github = "https://github.com/YOUR_USERNAME"
+github = "https://github.com/liliaazz"
 
-linkedin = "https://linkedin.com/in/YOUR_LINKEDIN"
+linkedin = "https://linkedin.com/in/lylia-azzouz"
 
-portfolio = "https://YOUR_PORTFOLIO"
+portfolio = "[https://YOUR_PORTFOLIO](https://lylia-azzouz-portfolio.vercel.app/)"
 
 email = "azzouzlylia05@gmail.com"
 
