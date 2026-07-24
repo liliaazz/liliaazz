@@ -34,6 +34,10 @@ coffee_level:
   ████████████ 100%
 
 
+
+<br>
+<br>
+
 <p align="center">
 
 <img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY4c3N0aHFoM2p0a2h1a2F4MWh0aTR6NzNpbm1hY3A4aTR6eTRjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
