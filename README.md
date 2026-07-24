@@ -139,9 +139,9 @@ status = "Building 🚀 Learning 📚 Improving ⚡"
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=liliaazz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=liliaazz&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -149,7 +149,7 @@ status = "Building 🚀 Learning 📚 Improving ⚡"
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliaazz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -159,7 +159,7 @@ status = "Building 🚀 Learning 📚 Improving ⚡"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liliaazz&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -169,6 +169,6 @@ status = "Building 🚀 Learning 📚 Improving ⚡"
 
 ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B68EE"/>
+<img src="https://komarev.com/ghpvc/?username=liliaazz&style=for-the-badge&color=7B68EE"/>
 
 </div>
