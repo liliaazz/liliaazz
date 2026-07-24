@@ -1,90 +1,174 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Lylia+Azzouz;Telecommunications+Engineer;AI+Engineer;Frontend+Developer;Always+Building+Something+Cool"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Lylia Azzouz
+
+### Telecommunications Engineer • AI Engineer • Frontend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Exploring+Telecommunications;Creating+Beautiful+Interfaces;Always+Learning+Something+New"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,tensorflow,pytorch,git,github,vscode,figma,mysql"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="100%">
+---
 
-## ⚡ Currently Loading...
+# 👩‍💻 About Me
 
-```yaml
-name: Lylia Azzouz
+- 🧠 Building intelligent AI systems
+- 🌐 Passionate about Telecommunications & Networking
+- 🚀 Creating modern web experiences with React
+- 📚 Always learning something new
+- 💡 Turning ideas into real-world projects
 
-role:
-  - Telecommunications Engineer
-  - AI Engineer
-  - Frontend Developer
+---
 
-currently_building:
-  - AI Agents
-  - Network Automation
-  - Machine Learning
+# 🎯 Current Goals
 
-currently_learning:
-  - CCNA
-  - Cloud
-  - LLM Engineering
+- 🤖 Build production-ready AI Agents
+- ☁️ Learn Cloud & DevOps
+- 🌍 Contribute more to Open Source
+- 📡 Deepen my Networking knowledge
+- 🚀 Build impactful products
 
-coffee_level:
-  ████████████ 100%
+---
+
+<div align="center">
+
+### ✨ *Always learning. Always building. Always improving.*
+
+</div>
+
+---
+
+## philosophy.py 🐍
+
+```python
+class Lylia:
+
+    def __init__(self):
+        self.name = "Lylia Azzouz"
+        self.role = "AI Engineer"
+
+    def daily_routine(self):
+        while True:
+            self.learn()      # 📚
+            self.build()      # 🚀
+            self.debug()      # 🐛
+            self.optimize()   # ⚡
+            self.repeat()     # 🔁
 
 
+me = Lylia()
+me.daily_routine()
+```
+
+---
+
+## currently_learning.py 📚
+
+```python
+learning = {
+
+    "Artificial Intelligence": [
+        "LLMs",
+        "AI Agents",
+        "Machine Learning"
+    ],
+
+    "Networking": [
+        "CCNA",
+        "Network Automation",
+        "Cloud"
+    ],
+
+    "Frontend": [
+        "React",
+        "TypeScript",
+        "Next.js"
+    ]
+
+}
+```
+
+---
+
+## toolbox.py 🛠️
+
+```python
+languages = [
+    "Python",
+    "JavaScript",
+    "SQL",
+]
+
+frameworks = [
+    "React",
+    "TensorFlow",
+    "Scikit-Learn",
+]
+
+interests = [
+    "Artificial Intelligence",
+    "Networking",
+    "Frontend",
+    "Open Source",
+]
+```
+
+---
+
+## connect.py 🌍
+
+```python
+github = "https://github.com/YOUR_USERNAME"
+
+linkedin = "https://linkedin.com/in/YOUR_LINKEDIN"
+
+portfolio = "https://YOUR_PORTFOLIO"
+
+email = "azzouzlylia05@gmail.com"
+
+status = "Building 🚀 Learning 📚 Improving ⚡"
+```
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <br>
-<br>
 
-<p align="center">
+<div align="center">
 
-<img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY4c3N0aHFoM2p0a2h1a2F4MWh0aTR6NzNpbm1hY3A4aTR6eTRjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,git,github,vscode,figma,tensorflow,mysql,c,cpp"/>
+# 🌌 Contribution Graph
 
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://raw.githubusercontent.com/liliaazz/liliaazz/output/github-contribution-grid-snake-dark.svg">
+</div>
 
-</p>
+---
 
+<div align="center">
 
+⭐ Thanks for visiting my profile!
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B68EE"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=liliaazz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=liliaazz&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliaazz&layout=compact&theme=tokyonight&hide_border=true">
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliaazz&layout=compact&theme=tokyonight&hide_border=true">
-
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=7B68EE&style=for-the-badge"/>
-
-</p>
-
-
+</div>
