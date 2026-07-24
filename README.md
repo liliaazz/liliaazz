@@ -38,29 +38,6 @@
 
 </div>
 
----
-
-## philosophy.py 🐍
-
-```python
-class Lylia:
-
-    def __init__(self):
-        self.name = "Lylia Azzouz"
-        self.role = "AI Engineer"
-
-    def daily_routine(self):
-        while True:
-            self.learn()      
-            self.build()      
-            self.debug()      
-            self.optimize()  
-            self.repeat()     
-
-
-me = Lylia()
-me.daily_routine()
-```
 
 ---
 
@@ -122,7 +99,7 @@ github = "https://github.com/liliaazz"
 
 linkedin = "https://linkedin.com/in/lylia-azzouz"
 
-portfolio = "[https://YOUR_PORTFOLIO](https://lylia-azzouz-portfolio.vercel.app/)"
+portfolio = "[(https://lylia-azzouz-portfolio.vercel.app/)]"
 
 email = "azzouzlylia05@gmail.com"
 
