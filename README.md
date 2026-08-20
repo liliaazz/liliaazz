@@ -108,23 +108,6 @@ status = "Building 🚀 Learning 📚 Improving ⚡"
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=liliaazz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=liliaazz&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliaazz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
